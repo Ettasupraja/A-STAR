@@ -209,8 +209,9 @@ D 1 <br>
 G 0 <br>
 <hr>
 <h2>Sample Output</h2>
-<hr>
+
 Path found: ['A', 'E', 'D', 'G']
+<hr>
 
 RESULT:
 We have successfully implemented the A* Search algorithm for a graph using Python 3, achieving accurate and efficient pathfinding results.
